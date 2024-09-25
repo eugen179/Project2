@@ -1,0 +1,24 @@
+body{
+    font-family: arial,  sans-serif;
+    margin: 0%;
+    padding: 0;
+    background-color: white;
+}
+.nav_bar {
+    display: flex;
+    justify-content: right;
+    font-size: x-large;
+    text-align: center;
+    gap: 30px;
+}
+footer{
+    width: 100%;
+    padding: 70px,30px,20px;
+}
+.socialisations{
+    background: black;
+    width: 100%;
+    font-size: 30px;
+    position: fixed;
+    bottom: 0;
+}
